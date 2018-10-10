@@ -1,0 +1,31 @@
+GAN/.idea/GAN.iml
+GAN/.idea/GAN.iml
+GAN/.idea/misc.xml
+GAN/.idea/GAN.iml
+GAN/.ipynb_checkpoints/gan_tutorials-checkpoint.ipynb
+SparseCoding/test_result.json
+SparseCoding/.idea/misc.xml
+SparseCoding/.idea/sRNN.iml
+SparseCoding/.idea/workspace.xml
+SparseCoding/.idea/dictionaries/deepgray.xml
+SparseCoding/.idea/markdown-navigator/profiles_settings.xml
+SparseCoding/__pycache__/model.cpython-36.pyc
+SparseCoding/__pycache__/prep.cpython-36.pyc
+SparseCoding/__pycache__/util.cpython-36.pyc
+SparseCoding/data/via_region_data.csv
+SparseCoding/data/via_region_data.json
+*.jpg
+cycleGAN/.idea/cycleGAN.iml
+cycleGAN/.idea/misc.xml
+cycleGAN/.idea/modules.xml
+*.xml
+cycleGAN/.idea/workspace.xml
+cycleGAN/.idea/modules.xml
+cycleGAN/.idea/dictionaries/deepgray.xml
+cycleGAN/.idea/inspectionProfiles/Project_Default.xml
+roc _curve/bbox_res.json
+roc _curve/.idea/misc.xml
+roc _curve/.idea/modules.xml
+roc _curve/.idea/roc _curve.iml
+roc _curve/.idea/workspace.xml
+SparseCoding/model/test.npy
